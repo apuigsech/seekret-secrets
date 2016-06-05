@@ -1,0 +1,6 @@
+-
+  content: thisISnotSECRET
+-
+  rule: password
+  line: 3
+  object: secret_1
